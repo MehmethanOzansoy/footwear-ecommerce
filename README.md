@@ -1,4 +1,5 @@
 # footwear-ecommerce-project LARAVEL12
+
 Scalable and maintainable footwear e-commerce platform built with modern web technologies, focusing on clean architecture, performance, and extensibility.
 
 ---
@@ -76,6 +77,8 @@ php artisan key:generate
 php artisan migrate
 php artisan serve
 ```
+
+kurulum adımları
 
 ---
 
