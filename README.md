@@ -80,7 +80,6 @@ php artisan migrate
 php artisan serve
 ```
 
-kurulum adımları
 
 ---
 
