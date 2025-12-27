@@ -19,6 +19,8 @@ The primary goal of this project is to build a **production-ready backend** whil
 
 ---
 
+MYSQL-REDİS
+
 ## 🧱 Architecture
 
 -   **Backend:** Laravel (MVC Architecture)
